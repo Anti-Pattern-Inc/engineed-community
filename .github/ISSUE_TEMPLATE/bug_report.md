@@ -1,12 +1,3 @@
----
-name: Bug report
-about: バグ報告
-title: ''
-labels: bug
-assignees: ''
-
----
-
 ## 事象
 <!-- 発生した事象をできるだけ詳細に記載してください。 -->
 
