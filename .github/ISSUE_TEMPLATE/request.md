@@ -1,12 +1,3 @@
----
-name: Request
-about: リクエスト
-title: ''
-labels: Request
-assignees: ''
-
----
-
 ## 要望・提案
 <!-- 要望や提案の内容を記載してください。 -->
 
